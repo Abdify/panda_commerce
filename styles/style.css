@@ -1,0 +1,52 @@
+.container{
+    margin-bottom: 80px;
+}
+.carousel_box{
+    background-color: #5CDB95;
+    border-radius: 10px;
+}
+.price{
+    color: tomato;
+}
+
+.buy_now_btn{
+    background-image: linear-gradient(70deg,tomato 45%,orange 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: gold;
+}
+.cat2{
+    background-color: blueviolet;
+}
+.cat3{
+    background-color: tomato;
+}
+.categories img{
+    width: 100px;
+}
+
+.card_box{
+    border: none;
+    border-radius: 10px;
+}
+
+.card_footer{
+    border: 0;
+    background-color: transparent;
+}
+
+.contact{
+    height: 300px;
+    background-color: #5CDB95;
+}
+footer{
+    text-align: center;
+}
